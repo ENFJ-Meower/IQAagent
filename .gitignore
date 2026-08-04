@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Data & cache
+data/
+cache/
+results/
+
+# PDFs & papers
+*.pdf
+
+# Environment
+.env
+*.env
+.venv/
+.ruff_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude internal
+.claude/
+
+# Local delivery bundles
+*.zip
